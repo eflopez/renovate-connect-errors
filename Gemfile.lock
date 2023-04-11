@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.6.3)
+    timecop (0.9.6)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  json (~> 2.6)
+  timecop (~> 0.9.6)
+
+BUNDLED WITH
+   2.4.6
