@@ -7,12 +7,4 @@
   ],
   "schedule": ["every weekday"],
   "platformAutomerge": true,
-  "packageRules": [
-    {
-      "matchDatasources": ["rubygems"],
-      "registryUrls": [
-        "http://fake.mcfake:1234",
-      ]
-    }
-  ]
 }
